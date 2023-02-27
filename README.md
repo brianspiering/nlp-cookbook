@@ -1,6 +1,8 @@
-Clustering word embeddings
+Natural language processing (NLP) cookbook
 ======
 
-Given a collection of documents, convert them to word embeddings and cluster the documents.
+A collection of common NLP tasks
 
-[Launch clustering_word_embeddings.ipynb on Google Colab](https://githubtocolab.com/brianspiering/clustering_word_embeddings/blob/main/clustering_word_embeddings.ipynb)
+| Title | Notebook | Colab |  
+|:-------|:------| :------|
+| Clustering based on word embeddings | [Github](clustering_word_embeddings.ipynb) | [Colab](https://githubtocolab.com/brianspiering/clustering_word_embeddings/blob/main/clustering_word_embeddings.ipynb)
