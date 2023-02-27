@@ -1,7 +1,7 @@
 Natural language processing (NLP) cookbook
 ======
 
-A collection of common NLP tasks
+Examples of common NLP tasks
 
 | Title | View Notebook | Run Notebook |  
 |:-------|:------| :------|
