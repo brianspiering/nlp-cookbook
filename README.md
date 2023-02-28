@@ -1,7 +1,7 @@
 Natural language processing (NLP) cookbook
 ======
 
-Examples of applying NLP
+Examples of applying NLP to solve business problems
 
 | Title | View Notebook | Run Notebook |  
 |:-------|:------| :------|
